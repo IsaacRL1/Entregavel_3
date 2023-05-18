@@ -4,7 +4,6 @@
 <ul>
   <li> Criar uma pasta </li>
   <li>Instalar o Express pelo comando via terminal npm install express.</li>
-  <li>Instalar o Express via terminal pelo comando npm install express.</li>
   <li>Criar servidor com codigo no app.js</li>
   <li>Executar servidor (node app.js)</li>
   <li>Criar um requisição post</li>
